@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/06/09 16:43:02.636,=D:\ProjetosDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/06/09 16:43:24.761,D:\ProjetosDelphi\Agenda\agenda.dfm=D:\ProjetosDelphi\Unit1.dfm</Transaction>
+    <Transaction>2024/06/09 16:43:24.761,D:\ProjetosDelphi\Agenda\agenda.pas=D:\ProjetosDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/06/09 16:43:34.150,D:\ProjetosDelphi\Agenda\agenda1.dproj=D:\ProjetosDelphi\Project1.dproj</Transaction>
+    <Transaction>2024/06/09 16:45:43.538,=D:\ProjetosDelphi\Agenda\Unit1.pas</Transaction>
+    <Transaction>2024/06/09 16:46:32.473,D:\ProjetosDelphi\Agenda\AgendaDM.pas=D:\ProjetosDelphi\Agenda\Unit1.pas</Transaction>
+    <Transaction>2024/06/09 16:46:32.473,D:\ProjetosDelphi\Agenda\AgendaDM.dfm=D:\ProjetosDelphi\Agenda\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
